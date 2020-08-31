@@ -1,3 +1,3 @@
 # Resume
 
-An online résumé. [Demo Site](https://romagan.github.io/resume/dist/)  
+Онлайн резюме [Перейти](https://romagan.github.io/resume/ru/) | An online résumé [Link](https://romagan.github.io/resume/)  
